@@ -11,6 +11,7 @@ En este curso vemos todo:
 -El flujo de trabajo en github
 - El verdadero amor por la buena practica
 - trucos muy locos del profesor
+* Creado por el increible Platzi team
 
 Y como un amable recordatorio "Este readme.md es un chiste". Diseñado para un ejemplo. Si llegas aca NO TE LO TOMES EN CUENTA.
 
