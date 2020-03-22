@@ -12,6 +12,8 @@ En este curso vemos todo:
 - El verdadero amor por la buena practica
 - trucos muy locos del profesor
 * Creado por el increible Platzi team
+- Incluye para windows, Mac y Linux"
+* Dsisponible para todas las edades
 
 Y como un amable recordatorio "Este readme.md es un chiste". Diseñado para un ejemplo. Si llegas aca NO TE LO TOMES EN CUENTA.
 
